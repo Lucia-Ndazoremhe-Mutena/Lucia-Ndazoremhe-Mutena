@@ -1,8 +1,4 @@
 
-## 🌍 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/lucia-mutena-218a51219?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXktfeNyaSTC0kumjeQdUZg%3D%3D)
-
-
 Feel free to explore my repositories and reach out if you’d like to collaborate or just chat about tech!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucia-Ndazoremhe-Mutena&show_icons=true&theme=radical)
 
@@ -11,10 +7,10 @@ Feel free to explore my repositories and reach out if you’d like to collaborat
 #### Aspiring software developer
 As an aspiring software developer, I am driven by a passion for technology and a desire to create innovative solutions., I am honing my skills in programming languages like Python, C++ and Java-Script. I have a keen interest in game development and am currently working on building a game using Pygame. With a strong foundation in quality control and a background in Biotechnology, I bring a unique perspective to my projects, combining analytical thinking with creativity. I am excited to collaborate with others, learn from experienced developers, and contribute to meaningful projects in the tech industry.
 
-Skills: C++/ Python/ Java-Script/ SQL/ SAS 
+Skills: python
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning C++/ JS/ SQL/ SAS
 - 📫 How to reach me: lucianomutena@gmail.com 
 - ⚡ Fun fact: I am always smilling 
 
