@@ -22,4 +22,4 @@ Welcome to my GitHub profile! I’m a passionate programmer and tech enthusiast 
 
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or just chat about tech!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucia-Ndazoremhe-Mutena)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucia-Ndazoremhe-Mutena&show_icons=true&theme=radical)
