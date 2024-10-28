@@ -1,7 +1,7 @@
 
 ### Hi there 👋, Lucia Mutena
 #### Aspiring Web developer
-As an aspiring software developer, I am driven by a passion for technology and a desire to create innovative solutions., I am honing my skills in programming languages like Python, C++ and Java-Script. I have a keen interest in game development and am currently working on building a game using Pygame. With a strong foundation in quality control and a background in Biotechnology, I bring a unique perspective to my projects, combining analytical thinking with creativity. I am excited to collaborate with others, learn from experienced developers, and contribute to meaningful projects in the tech industry.
+As an aspiring software developer, I am driven by a passion for technology and a desire to create innovative solutions. I am honing my skills in programming languages like Python, C++ and Java-Script. I have a keen interest in game development and am currently working on building a game using Pygame. With a strong foundation in quality control and a background in Biotechnology, I bring a unique perspective to my projects, combining analytical thinking with creativity. I am excited to collaborate with others, learn from experienced developers, and contribute to meaningful projects in the tech industry.
 
 Skills: python
 
